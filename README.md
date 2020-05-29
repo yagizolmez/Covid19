@@ -1,6 +1,6 @@
 # Covid19
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yagizolmez/Covid19/master?urlpath=https%3A%2F%2Fgithub.com%2Fyagizolmez%2FCovid19%2Fblob%2Fmaster%2FCovid-19.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yagizolmez/Covid19/master)
 
 Datasets are courtesy of New York Times and John Hopkins University
 New York Times Dataset: https://github.com/nytimes/covid-19-data
